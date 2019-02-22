@@ -1,6 +1,6 @@
 
 Feature:
-  PC login 1
+  PC login 1234T
 
   Scenario:
    Given user is already on Login Page
