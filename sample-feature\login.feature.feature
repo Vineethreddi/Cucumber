@@ -1,10 +1,10 @@
 
 Feature:
-  PC login 1234T
+  login 1234T
 
   Scenario:
    Given user is already on Login Page
-When title of login page is PC
+When title of login page is 
 Then user enters "<username>" and "<password>"
 Then user clicks on login button
 Then Close the browser
