@@ -1,6 +1,6 @@
 
 Feature:
-  PC login
+  PC login 1
 
   Scenario:
    Given user is already on Login Page
