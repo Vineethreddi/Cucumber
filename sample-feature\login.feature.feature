@@ -1,6 +1,6 @@
 
 Feature:
-  login 1234T
+  login 
 
   Scenario:
    Given user is already on Login Page
