@@ -1,6 +1,6 @@
 
 Feature:
-  login 
+  login lori
 
   Scenario:
    Given user is already on Login Page
